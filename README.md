@@ -1,3 +1,4 @@
+# EKIKA
 - 👋 Hi, I'm a human from EKIKA, I am here to serve you better. My name is Anand Shukla managing @ekikacorporation now.
 - 👀 I’m interested in optimising businesses OR make our world 🏡 a better place.
 - 🌱 I’m currently learning AI, ML and IAC
