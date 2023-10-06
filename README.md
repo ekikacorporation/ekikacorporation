@@ -1,4 +1,3 @@
-# [EKIKA](https://www.ekika.co){:target="_blank"}
 - 👋 Hi, I'm a Anand from EKIKA, I am here to serve you better.
 - 👀 I’m interested in optimising businesses OR make our world 🏡 a better place.
 - 🌱 I’m currently learning AI, ML and IAC
