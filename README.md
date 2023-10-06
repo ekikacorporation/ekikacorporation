@@ -1,5 +1,5 @@
 # [EKIKA](https://www.ekika.co){:target="_blank"}
-- 👋 Hi, I'm a human from EKIKA, I am here to serve you better. My name is Anand Shukla managing @ekikacorporation now.
+- 👋 Hi, I'm a Anand from EKIKA, I am here to serve you better.
 - 👀 I’m interested in optimising businesses OR make our world 🏡 a better place.
 - 🌱 I’m currently learning AI, ML and IAC
 - 💞️ I’m looking to collaborate on IAC (Infrastructure as Code Platform for all software development department.).
@@ -55,9 +55,9 @@ This isn't just a company; this is a movement. Join hands with Ekika, and togeth
 
 Ready to embark on a journey of innovation and growth? We're here for you. Reach out to us today:
 
-- **Website:** [www.ekika.co](https://www.ekika.co) Welcome to our virtual showcase from our office.
+- **Website:** [www.ekika.co](https://www.ekika.co){:target="_blank"} Welcome to our virtual showcase from our office.
 - **Email:** [hello@ekika.co](mailto:hello@ekika.co) Send us email.
-- **WhatsApp:** [+91 9510031431](https://api.whatsapp.com/send?phone=919510031431&text=Hello%20Anand%2C%0A%0AI%20find%20you%20from%20GitHub%20of%20Ekika.%20I%20am%20sending%20you%20few%20messages%20next%20for%20a%20small%20job%20to%20achieve%20my%20objective%20following.%0A%0AThank%20You%2C) Chat with us on WhatsApp.
+- **WhatsApp:** [+91 9510031431](https://api.whatsapp.com/send?phone=919510031431&text=Hello%20Anand%2C%0A%0AI%20find%20you%20from%20GitHub%20of%20Ekika.%20I%20am%20sending%20you%20few%20messages%20next%20for%20a%20small%20job%20to%20achieve%20my%20objective%20following.%0A%0AThank%20You%2C){:target="_blank"} Chat with us on WhatsApp.
 - **LinkedIn:** [Ekika Corporation Private Limited](https://www.linkedin.com/company/ekika){:target="_blank"} Let's share about business, innovation anc concepts.
 - **GitHub:** [Ekika on GitHub](https://github.com/ekikacorporation){:target="_blank"} (Solid items)
 
